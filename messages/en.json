@@ -1,0 +1,66 @@
+{
+  "Index": {
+    "title": "ENGLISH TRANSLATE"
+  },
+  
+  "Footer": {
+    "copyright": "© 2024 Expresión Tango. All rights reserved json." 
+  },
+
+  "Header": {    
+    "home": "Inicio",
+    "language": "Languague"
+  },
+
+  "Query": {
+    "query": "Make an appointment"    
+  },
+
+  "HeroSection": {
+    "title": "Professional Academy",
+    "subtitle": "Seduce with your confidence!",
+    "description": "Number one professional tango school in Argentina. Come and learn with us the beautiful art of the most recognized and beautiful dance in the world.",
+    "description1": "The tango academy, also called milonga, and formerly piringundín or canguela, is a center, usually private and with public access, dedicated especially to tango dancing, in which teaching practices, ballet training and popular dance are carried out.",
+    "description2": "We are a tango academy, with more than 30 years of experience in the field, and with a wide range of ballets and popular dance. Our goal is to provide students with the best learning experience and constant support in their development as dancers and artists."
+  },
+
+  "SkillSection": {
+    "students": "Some of our students at " 
+  },
+
+  "AboutSection": {
+    "title": "About our ",
+    "teachers": "Teachers",        
+    "description1": "In the heart of Buenos Aires, in a small dance studio adorned with mirrors and dim lights, Laura and Jorge were preparing for another night of teaching tango. The couple, known throughout the city for their passion and skill, had dedicated their lives to transmitting the magic of this emblematic dance.",
+    "description2": "Laura, with her dark, wavy hair tied up in an elegant bun, adjusted the last details of her red dress as she looked at the students who began to arrive. Jorge, with his distinguished bearing and warm smile, made sure the music was ready, carefully selecting each song for class.",
+    "description3": "The first class of the night was for beginners. Laura and Jorge positioned themselves in the center of the court, and with a mix of patience and enthusiasm, they began to guide the students through the basic steps. With each movement, Laura demonstrated the grace and fluidity of tango, while Jorge explained the technique and history behind each figure. -Tango is more than a dance-, said Jorge, -it is a conversation between two souls.-",
+    "description4": "As the night progressed, the studio was filled with laughter, music, and the soft sound of shoes sliding on the hardwood floor. Beginners became advanced, and the last class of the night was for those who had already mastered the basic steps. Here, Laura and Jorge shined brighter, showing off complex moves and elegant spins that left everyone breathless.",
+    "description5": "After the last class, the students gathered around Laura and Jorge, thanking them for another magical night. The couple looked at each other with complicity, knowing that they had managed to transmit not only the steps, but also the spirit of tango.",
+    "description6": "Closing the studio doors, Laura and Jorge stood on the empty floor for a few minutes, embracing in a silent tango under the fading lights. -Every night is a new beginning-, Laura murmured. -And every step is a story-, Jorge added, kissing her gently on the forehead.",
+    "description7": "And so, with the promise of continuing to share their passion, Laura and Jorge left, leaving the essence of an eternal tango in the air.",
+    "number": "+300 ¡Successful Students!"
+  },
+
+  "ClinicSection": {
+    "phrase": "-Anywhere is a good place to dance...-",
+    "yorch": "Jorge, Academy Director",
+    "place": "Tango in Argentina y Uruguay",
+    "description": "In Buenos Aires certain neighborhoods have a special tango imprint, such as El Abasto, San Telmo or La Boca and in Montevideo, Barrio Sur, Ciudad Vieja, La Mondiola, La Unión and other neighborhoods. Tango academies are also important, where tango is learned and danced. Other cities in Argentina and Uruguay have important tango centers or activities.",
+    "place1": "Tango in Brasil",
+    "description1": "Brazilian tango was formed simultaneously with the River Plate tango and from similar influences, such as candomblé and lundu of African origin, Cuban habanera, Andalusian tango and European polka and mazurka.",
+    "place2": "Tango in Chile",
+    "description2": "Since the first decades of the 20th century, tango was danced both in the Chilean capital, Santiago, and - especially - in the port of Valparaíso, where the love for suburban dancing still develops. There are still some academies, radio programs and festivals where tango dancers gather.",
+    "place3": "Tango in Colombia",
+    "description3": "Tango in Colombia became very popular at the beginning of the 20th century, when numerous Argentine artists arrived in the country. Specifically the city of Medellín, one of the capitals of tango, outside of Argentina and Uruguay. In the city, there are a large number of bars of this genre, and also in the rest of Colombia. In the 1930s it began to become more popular and spread throughout the rest of the national territory. A historical event, precisely, was the death of Carlos Gardel in Medellín in 1935 in an aeronautical accident."
+  },
+
+  "DepoSection":{
+    "school": "Professional Academy",
+    "contact": "Contact us",
+    "phrase": "Dance with us and change your life!"
+  }
+
+
+
+
+}

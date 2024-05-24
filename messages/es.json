@@ -1,0 +1,64 @@
+{
+  "Index": {
+    "title": "TRADUCCION ESPAÑOL"
+  },
+
+  "Footer": {
+    "copyright": "© 2024 Expresión Tango. Todos los derechos reservados."
+  },
+
+  "Header": {    
+    "home": "Inicio",
+    "language": "Idioma"
+  },
+
+  "Query": {
+    "query": "Agende su clase"    
+  },
+
+  "HeroSection": {
+    "title": "Academia Profesional",
+    "subtitle": "¡Seduzca con su confianza!",
+    "description": "Escuela profesional de tango número uno de Argentina. Venga y aprenda con nosotros el hermoso arte del baile más reconocido y hermoso del mundo. ",
+    "description1": "La academia de tango, también llamada milonga, y antiguamente piringundín o canguela, es un centro, usualmente privado y de acceso público, dedicado especialmente al baile del tango, en los que se realizan prácticas de enseñanza, formación de ballets y baile popular.",
+    "description2": "Somos una academia de tango, con más de 30 años de experiencia en el campo, y con una amplia gama de ballets y baile popular. Nuestro objetivo es brindar a los alumnos la mejor experiencia en el aprendizaje y el acompañamiento constante en su desarrollo como bailarines y artistas."
+  },
+
+  "SkillSection": {
+    "students": "Algunos de nuestros alumnos en "
+  },
+
+  "AboutSection": {
+    "title": "Quienes son los ",
+    "teachers": "Profesores?",        
+    "description1": "En el corazón de Buenos Aires, en un pequeño estudio de danza adornado con espejos y luces tenues, Laura y Jorge se preparaban para otra noche de enseñar tango. La pareja, conocidos en toda la ciudad por su pasión y habilidad, habían dedicado su vida a transmitir la magia de este baile tan emblemático.",
+    "description2": "Laura, con su pelo oscuro y ondulado recogido en un moño elegante, ajustaba los últimos detalles de su vestido rojo mientras miraba a los alumnos que comenzaban a llegar. Jorge, con su porte distinguido y su sonrisa cálida, se aseguraba de que la música estuviera lista, seleccionando cuidadosamente cada canción para la clase.",
+    "description3": "La primera clase de la noche era para principiantes. Laura y Jorge se posicionaron en el centro de la pista, y con una mezcla de paciencia y entusiasmo, empezaron a guiar a los alumnos a través de los pasos básicos. Con cada movimiento, Laura demostraba la gracia y la fluidez del tango, mientras Jorge explicaba la técnica y la historia detrás de cada figura. -El tango es más que un baile-, decía Jorge, -es una conversación entre dos almas-.",
+    "description4": "A medida que avanzaba la noche, el estudio se llenaba de risas, música y el suave sonido de los zapatos deslizando sobre el piso de madera. Los principiantes se convirtieron en avanzados, y la última clase de la noche era para aquellos que ya dominaban los pasos básicos. Aquí, Laura y Jorge brillaban más intensamente, mostrando movimientos complejos y giros elegantes que dejaban a todos sin aliento.",
+    "description5": "Después de la última clase, los alumnos se reunieron alrededor de Laura y Jorge, agradeciéndoles por otra noche mágica. La pareja se miró con complicidad, sabiendo que habían logrado transmitir no solo los pasos, sino también el espíritu del tango.",
+    "description6": "Al cerrar las puertas del estudio, Laura y Jorge se quedaron unos minutos en la pista vacía, abrazados en un tango silencioso bajo las luces que se desvanecían. -Cada noche es un nuevo comienzo-, murmuró Laura. -Y cada paso es una historia-, añadió Jorge, besándola suavemente en la frente.",
+    "description7": "Y así, con la promesa de seguir compartiendo su pasión, Laura y Jorge se fueron, dejando en el aire la esencia de un tango eterno.",
+    "number": "+300 ¡Alumnos Exitosos!"
+  },
+
+  "ClinicSection": {
+    "phrase": "-Cualquier sitio es un buen lugar para milonguear...-",
+    "yorch": "Jorge, Director de la Milonga",
+    "place": "Tango en Argentina y Uruguay",
+    "description": "En Buenos Aires ciertos barrios tienen una especial impronta tanguera, como El Abasto, San Telmo o La Boca y en Montevideo, Barrio Sur, Ciudad Vieja, La Mondiola, La Unión y otros barrios. También son importantes las academias de tango, donde se aprende y baila tango. Otras ciudades de la Argentina y Uruguay tienen importantes centros o actividades tangueras.",
+    "place1": "Tango en Brasil",
+    "description1": "El tango brasileño se formó de manera simultánea al tango rioplatense y a partir de influencias similares, como el candomblé y el lundu de origen africano, la habanera cubana, el tango andaluz y la polka y mazurca europeas.",
+    "place2": "Tango en Chile",
+    "description2": "Desde las primeras décadas del siglo xx se bailó el tango tanto en la capital chilena, Santiago, como ―especialmente― en el puerto de Valparaíso, donde aún se desarrolla la afición por el baile arrabalero. Subsisten algunas academias, programas radiales y festivales donde se reúnen los tangueros.",
+    "place3": "Tango en Colombia",
+    "description3": "El tango en Colombia se hizo muy popular a principios del siglo xx, cuando numerosos artistas argentinos llegaron al país. Específicamente la ciudad de Medellín, una de las capitales del tango, fuera de Argentina y Uruguay. En la ciudad, se encuentran gran cantidad de bares de este género, e igualmente en el resto de Colombia. En los años 1930 se comenzó a hacer más popular, y a expandir por el resto del territorio nacional. Un hecho histórico, precisamente, fue la muerte de Carlos Gardel en Medellín en el año 1935 en un accidente aeronáutico.",
+    "place4": "Tango en Finlandia",
+    "description4": "El tango de Finlandia comenzó a tomár características propias en la década de 1930. Se distingue de las demás variantes por su casi exclusiva ejecución en tonalidades menores y en los temas, que reflejan convenciones establecidas en el folclore finés. Uno de los puntos destacados es el Tangomarkkinat, o festival de tango, celebrado anualmente desde 1985 en Seinäjoki, considerada por los tangueros fineses como la segunda ciudad del tango después de Buenos Aires."
+  },
+
+  "DepoSection":{
+    "school": "Academia Profesional",
+    "contact": "Contactenos",
+    "phrase": "Baile con nosotros y transforme su vida!"
+  }
+}
