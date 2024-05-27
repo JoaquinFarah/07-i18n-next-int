@@ -13,7 +13,8 @@
   },
 
   "Query": {
-    "query": "Agende su clase"    
+    "query": "Agende su clase",    
+    "students": "Estudiantes"
   },
 
   "HeroSection": {

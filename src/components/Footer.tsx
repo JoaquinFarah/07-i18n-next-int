@@ -7,7 +7,7 @@ const Footer = () => {
 const t = useTranslations('Footer');
 
   return (
-    <footer className="mx-auto flex w-full flex-1 flex-wrap items-center justify-around p-4 gap-5 md:gap-0 bg-[#F5F5F5]">
+    <footer className="mx-auto flex w-full flex-1 flex-wrap items-center justify-around p-4 gap-5 md:gap-0 bg-gradient-to-r from-pink-500 via-rose-500 to-purple-500">
       <Link href="/">  
         <Image
           src={logo}

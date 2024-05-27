@@ -2,11 +2,10 @@ import {NextIntlClientProvider} from 'next-intl';
 import {getMessages} from 'next-intl/server';
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import { unstable_setRequestLocale } from 'next-intl/server';
  
-export default async function LocaleLayout({
-  children,
-  params: {locale}
-}: {
+export default async function LocaleLayout({children, params: {locale}}: {
+  unstable_setRequestLocale(locale);
   children: React.ReactNode;
   params: {locale: string};
 }) {

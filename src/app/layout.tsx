@@ -14,9 +14,7 @@ export const metadata: Metadata = {
     "Expresion Tango",
   description:
     "Escuela de Tango tipica de la Boca",
-  keywords:
-    "tango, milonga, baile, danza, boca, caminito, tipico, argentina, diversion, escuela, profesionales",
-  robots: "index, follow",
+  
 };
 
 export default function RootLayout({

@@ -13,7 +13,8 @@
   },
 
   "Query": {
-    "query": "Make an appointment"    
+    "query": "Make an appointment",
+    "students": "Students"
   },
 
   "HeroSection": {
